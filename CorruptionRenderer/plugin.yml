@@ -1,0 +1,3 @@
+name: Renderer
+main: renderer.Main
+version: 5.0
